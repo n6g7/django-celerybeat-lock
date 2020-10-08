@@ -1,2 +1,2 @@
 
-from .scheduler import LockedPersistentScheduler
+from .scheduler import LockedPersistentScheduler, LockedSchedulerMixin
